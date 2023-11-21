@@ -1,10 +1,1 @@
-package com.pages;
-
-public class GitRepoExTest {
-	
-	public static void main(String[] args) {
-		System.out.println("Git Update..");
-		System.out.println("Git Update11..");
-	}
-
-}
+Hello GoodBye from the merge of feature and master.
