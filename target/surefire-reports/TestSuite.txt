@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 72.862 s <<< FAILURE! - in TestSuite
+com.tests.LoginTest.passtest  Time elapsed: 45.193 s  <<< FAILURE!
+org.openqa.selenium.support.ui.UnexpectedTagNameException: 
+Element should have been "select" but was "span"
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-027RU80', ip: '192.168.52.180', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: unknown
+	at com.tests.LoginTest.passtest(LoginTest.java:33)
+
